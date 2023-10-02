@@ -1,0 +1,47 @@
+/* AdminNavbar.css */
+
+/* Estilos para la barra de navegación del administrador */
+.navbar {
+    background-color:#101018 !important; /* Color de fondo de la barra de navegación */
+    color: #fff; /* Color del texto en la barra de navegación */
+  }
+  
+  .navbar-brand {
+    font-size: 24px; /* Tamaño de fuente del título "Administrador" */
+    font-weight: bold; /* Texto en negrita para el título */
+    margin-right: 20px; /* Espaciado a la derecha del título */
+    color: #fff; /* Color del título */
+  }
+  
+  .navbar-toggler-icon {
+    color: #fff; /* Color del icono del botón de alternancia */
+  }
+  
+  /* Estilos para los enlaces de navegación */
+  .navbar-nav .nav-item {
+    margin-right: 10px; /* Espaciado entre elementos de navegación */
+  }
+  
+  .navbar-nav .nav-item .nav-link {
+    color: #fff; /* Color de los enlaces de navegación */
+    font-weight: bold; /* Texto en negrita para los enlaces */
+    transition: color 0.3s; /* Transición de color suave al pasar el ratón sobre los enlaces */
+  }
+  
+  .navbar-nav .nav-item .nav-link:hover {
+    color: #fff; /* Cambia el color al pasar el ratón sobre los enlaces */
+  }
+  
+  /* Estilos para el botón de cerrar sesión */
+  .navbar-nav .nav-item .btn-link {
+    color: #fff; /* Color del botón de cerrar sesión */
+    font-weight: bold; /* Texto en negrita para el botón */
+    text-decoration: none; /* Elimina el subrayado del botón */
+    transition: color 0.3s; /* Transición de color suave al pasar el ratón sobre el botón */
+  }
+  
+  .navbar-nav .nav-item .btn-link:hover {
+    color: #fff; /* Cambia el color al pasar el ratón sobre el botón */
+  }
+
+  
